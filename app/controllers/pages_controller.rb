@@ -5,9 +5,9 @@ class PagesController < ApplicationController
   def about
   end
 
-  def contact
-  end
+  #def contact
+  #end
 
-  def orders
-  end
+  #def orders
+  #end
 end
