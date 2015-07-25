@@ -81,4 +81,4 @@ Rails.application.configure do
   # Note to set this to your actual host
   config.action_mailer.default_url_options = { host: 'omr-pinteresting-nicktheo.heroku.com'}
 end
-end
+
