@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.0.0'
+ruby '2.2.2'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
@@ -23,6 +23,8 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'bootstrap-sass'
+
+gem 'devise', '~>3.5.1'
 
 group :production do
 	gem 'pg'
